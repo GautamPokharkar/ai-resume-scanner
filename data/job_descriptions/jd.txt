@@ -1,0 +1,62 @@
+Job Title: Junior Machine Learning Engineer
+
+Location: United States (On-site / Hybrid)
+Job Type: Full-time
+
+Job Description
+
+The organization is seeking a motivated Junior Machine Learning Engineer to join the AI team. The role involves building, training, and deploying machine learning models to solve real-world problems using large datasets.
+
+Responsibilities
+
+Develop and implement machine learning models using Python
+
+Perform data preprocessing, feature engineering, and model evaluation
+
+Work with structured and unstructured datasets
+
+Collaborate with software engineers to integrate ML models into applications
+
+Conduct experiments and document results
+
+Optimize model performance and scalability
+
+Required Qualifications
+
+Bachelor’s degree in Computer Science, Engineering, or related field
+
+Strong programming skills in Python
+
+Knowledge of Machine Learning algorithms (regression, classification, clustering)
+
+Experience with NumPy, Pandas, Scikit-learn
+
+Understanding of data structures and algorithms
+
+Familiarity with Git and version control
+
+Preferred Qualifications
+
+Exposure to Deep Learning (TensorFlow or PyTorch)
+
+Basic knowledge of NLP or Computer Vision
+
+Experience with SQL and databases
+
+Internship or academic project experience in ML/AI
+
+Skills
+
+Problem-solving and analytical thinking
+
+Strong communication skills
+
+Ability to work independently and in a team environment
+
+Compensation
+
+Competitive salary
+
+Health insurance and benefits
+
+Learning and growth opportunities

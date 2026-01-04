@@ -1,62 +1,64 @@
-Job Title: Junior Machine Learning Engineer
+JOB TITLE: Software Development Engineer – Full Stack (SDE-1)
 
-Location: United States (On-site / Hybrid)
-Job Type: Full-time
+LOCATION: Mumbai / Bengaluru / Hybrid
 
-Job Description
+EMPLOYMENT TYPE: Full-time
 
-The organization is seeking a motivated Junior Machine Learning Engineer to join the AI team. The role involves building, training, and deploying machine learning models to solve real-world problems using large datasets.
+JOB SUMMARY:
+The company is seeking a Software Development Engineer (SDE-1) with strong foundations in full-stack web development, data structures, and problem-solving. The role involves building scalable web applications, integrating APIs, and collaborating with cross-functional teams to deliver high-quality software solutions.
 
-Responsibilities
+KEY RESPONSIBILITIES:
 
-Develop and implement machine learning models using Python
+Design, develop, and maintain full-stack web applications
 
-Perform data preprocessing, feature engineering, and model evaluation
+Build responsive user interfaces using modern frontend frameworks
 
-Work with structured and unstructured datasets
+Develop backend services and REST APIs
 
-Collaborate with software engineers to integrate ML models into applications
+Integrate third-party APIs and cloud services
 
-Conduct experiments and document results
+Write clean, modular, and maintainable code
 
-Optimize model performance and scalability
+Use Git for version control and collaborative development
 
-Required Qualifications
+Optimize applications for performance and scalability
 
-Bachelor’s degree in Computer Science, Engineering, or related field
+Participate in code reviews and technical discussions
 
-Strong programming skills in Python
+REQUIRED QUALIFICATIONS:
 
-Knowledge of Machine Learning algorithms (regression, classification, clustering)
+Bachelor’s degree in Computer Science, Engineering, or related field (2026 graduate preferred)
 
-Experience with NumPy, Pandas, Scikit-learn
+Proficiency in programming languages such as Java, Python, or JavaScript
 
-Understanding of data structures and algorithms
+Strong understanding of data structures and algorithms
 
-Familiarity with Git and version control
+Hands-on experience with frontend technologies (HTML, CSS, JavaScript)
 
-Preferred Qualifications
+Experience with modern frameworks such as React or Angular
 
-Exposure to Deep Learning (TensorFlow or PyTorch)
+Knowledge of backend development using Node.js, Express, Flask, or FastAPI
 
-Basic knowledge of NLP or Computer Vision
+Familiarity with relational and NoSQL databases (MySQL, MongoDB)
 
-Experience with SQL and databases
+PREFERRED SKILLS:
 
-Internship or academic project experience in ML/AI
+Experience building AI-enabled applications or integrating AI APIs
 
-Skills
+Knowledge of cloud platforms and secure data storage
 
-Problem-solving and analytical thinking
+Familiarity with TypeScript and modern frontend tooling
 
-Strong communication skills
+Experience with MERN stack development
 
-Ability to work independently and in a team environment
+Understanding of security best practices and compliance standards
 
-Compensation
+Exposure to DevOps, deployment, and CI/CD pipelines
 
-Competitive salary
+EXPERIENCE:
 
-Health insurance and benefits
+Internship or project-based experience in web or software development
 
-Learning and growth opportunities
+Freshers or up to 2 years of experience
+
+SALARY:

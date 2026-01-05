@@ -1,74 +1,65 @@
-📄 AI Resume Screener – Semantic Matching Application
+# 📄 AI Resume Screener – Semantic Matching Application
 
-An AI-assisted resume screening application designed to evaluate semantic alignment between resumes and job descriptions using deterministic embedding-based scoring.
-The system supports role-based usage for recruiters and job seekers, providing ranking, similarity scores, and targeted improvement suggestions.
+An **AI-assisted resume screening application** designed to evaluate **semantic alignment** between resumes and job descriptions using **embedding-based similarity scoring**.  
+The system supports **role-based usage** for recruiters and job seekers, enabling candidate ranking, resume self-evaluation, and targeted improvement suggestions.
 
-✅ Key Features
+---
 
-Role-based modes for Recruiters and Job Seekers
+## ✅ Key Features
 
-Semantic resume–job description matching using embeddings
+- Role-based modes for **Recruiters** and **Job Seekers**
+- Semantic resume–job description matching using embeddings
+- Weighted scoring across resume sections (**skills, experience, education**)
+- Multi-resume upload and ranking for recruiter workflows
+- Resume self-assessment with improvement suggestions for job seekers
+- Optional AI-generated guidance with user-controlled toggle
+- Interactive web interface built with Streamlit
 
-Weighted scoring across resume sections (skills, experience, education)
+---
 
-Multi-resume ranking for recruiter workflows
+## 🖥️ Application Overview
 
-Resume self-evaluation and improvement suggestions for job seekers
+- Built as a **single-page interactive application**
+- Supports **PDF resume uploads** and text-based job descriptions
+- Real-time scoring and ranking using deterministic logic
+- Clean separation between scoring logic and AI-generated explanations
+- Designed for learning and experimentation rather than automated hiring
 
-Optional AI-generated guidance with user-controlled toggle
+---
 
-Interactive web interface built with Streamlit
+## 🧠 System Design Highlights
 
-🖥️ Application Overview
+- **Deterministic scoring core** using cosine similarity for reproducibility
+- Section-aware evaluation to reflect real-world hiring priorities
+- LLMs used only for **explanations and suggestions**, not scoring decisions
+- Shared core logic with **role-specific user interfaces**
+- Emphasis on transparency, explainability, and responsible AI usage
 
-Built as a single-page interactive application
+---
 
-Supports PDF resume uploads and text-based job descriptions
+## 🧰 Tech Stack
 
-Provides real-time scoring and ranking
+### Frontend / UI
+- Streamlit
 
-Clear separation between deterministic scoring and AI explanations
+### Backend / Core Logic
+- Python
+- Google Gemini API (Embeddings and Text Generation)
+- NumPy
 
-🧠 System Design Highlights
+### Utilities
+- PyMuPDF (PDF text extraction)
+- python-dotenv (environment configuration)
 
-Deterministic scoring using cosine similarity for reproducibility
+---
 
-Section-aware evaluation to reflect real hiring priorities
+## 🎯 Learning Outcomes
 
-LLMs used only for explanations, not scoring decisions
+- Designed an **AI-assisted system** with deterministic semantic scoring
+- Implemented resume–job matching using **embeddings and cosine similarity**
+- Built role-based user experiences on top of a shared scoring engine
+- Applied responsible AI principles by separating scoring and explanation
+- Gained experience building **interactive ML-powered applications**
 
-Shared core logic with role-specific user interfaces
+---
 
-Safe handling of user inputs and optional AI usage
-
-🧰 Tech Stack
-
-Frontend / UI
-
-Streamlit
-
-Backend / Core Logic
-
-Python
-
-Google Gemini API (Embeddings + Text Generation)
-
-NumPy
-
-Utilities
-
-PyMuPDF (PDF text extraction)
-
-dotenv (environment configuration)
-
-🎯 Learning Outcomes
-
-Designed an AI-assisted system with deterministic core logic
-
-Implemented semantic matching using embeddings and cosine similarity
-
-Built role-based user experiences on top of a shared scoring engine
-
-Applied responsible AI principles by separating scoring and explanation
-
-Gained experience building interactive ML-powered applications
